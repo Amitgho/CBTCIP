@@ -9,7 +9,7 @@ Please, change these paths and values according to your PC setups.
 
 If you are on Windows. You can convert this .jar file into .exe file by 
 ```
-jpackage -t exe --name GuessingGame --description "It's a simple Guessing Game made with JavaFX. Author: Md. Saon Sikder, Computer Science & Engineering Dept., Faridpur Engineering College, Bangladesh" --app-version 1.0.0 --input /home/saon/Documents/Java/JavaFx/out/artifacts/JavaFx_jar --dest /home/saon/Music --icon /home/saon/Documents/Java/JavaFx/src/images --main-jar JavaFx.jar --module-path /home/saon/Desktop/Softwares/javafx-jmods-11.0.2 --add-modules javafx.controls,javafx.fxml --win-shortcut --win-menu
+jpackage -t exe --name GuessingGame --description "It's a simple Guessing Game made with JavaFX. Author: Amit Ghosh, Computer Science & Engineering Dept., Faridpur Engineering College, West Bangal" --app-version 1.0.0 --input /home/saon/Documents/Java/JavaFx/out/artifacts/JavaFx_jar --dest /home/saon/Music --icon /home/saon/Documents/Java/JavaFx/src/images --main-jar JavaFx.jar --module-path /home/saon/Desktop/Softwares/javafx-jmods-11.0.2 --add-modules javafx.controls,javafx.fxml --win-shortcut --win-menu
 ```
 Please, change these paths and values according to your PC setups. And you've to download [jpackage and jmods][2] before.
 
